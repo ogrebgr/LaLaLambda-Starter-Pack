@@ -1,0 +1,6 @@
+rootProject.name = 'myLambdas'
+
+include ':LaLaLambda'
+project(':LaLaLambda').projectDir = new File("$settingsDir/../../LaLaLambda")
+
+
