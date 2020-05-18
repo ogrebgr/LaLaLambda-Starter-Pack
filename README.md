@@ -1,2 +1,2 @@
-# LaLaLambda-Starter-Pack
-All you need to start using La La Lambda in a convenient package
+# ezLambda-Starter-Pack
+All you need to start using ezLambda in a convenient package

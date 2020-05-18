@@ -1,9 +1,9 @@
 package myLambdas
 
-import lalalambda.simple.SimpleLambda
-import lalalambda.simple.SimpleRequestContext
-import lalalambda.simple.SimpleResponse
-import lalalambda.simple.SimpleResponseBuilder
+import ezlambda.simple.SimpleLambda
+import ezlambda.simple.SimpleRequestContext
+import ezlambda.simple.SimpleResponse
+import ezlambda.simple.SimpleResponseBuilder
 
 class SimpleLambda1 : SimpleLambda {
     override fun handleRequest(input: SimpleRequestContext): SimpleResponse {

@@ -1,12 +1,12 @@
-rootProject.name = 'LaLaLambdaStarterPack'
+rootProject.name = 'ezlambda-starter-pack'
 
 include ':myLambdas'
 project(':myLambdas').projectDir = new File("$settingsDir/myLambdas")
 
-include ':LaLaLambda'
-project(':LaLaLambda').projectDir = new File("$settingsDir/../LaLaLambda")
-
-include ':LaLaLambdaServer'
-project(':LaLaLambdaServer').projectDir = new File("$settingsDir/../LaLaLambdaServer")
-
+//include ':ezlambda'
+//project(':ezlambda').projectDir = new File("$settingsDir/../ezlambda")
+//
+//include ':ezlambda-server'
+//project(':ezlambda-server').projectDir = new File("$settingsDir/../ezlambda-server")
+//
 

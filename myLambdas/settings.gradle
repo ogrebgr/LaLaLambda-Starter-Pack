@@ -1,6 +1,6 @@
 rootProject.name = 'myLambdas'
 
-include ':LaLaLambda'
-project(':LaLaLambda').projectDir = new File("$settingsDir/../../LaLaLambda")
+include ':ezlambda'
+project(':ezlambda').projectDir = new File("$settingsDir/../../ezlambda")
 
 

@@ -1,7 +1,7 @@
 package myLambdas
 
-import lalalambda.misc.HttpMethod
-import lalalambda.simple.SimpleLambdaDispatcher
+import ezlambda.misc.HttpMethod
+import ezlambda.simple.SimpleLambdaDispatcher
 
 class MySimpleDispatcher : SimpleLambdaDispatcher(true) {
     init {
